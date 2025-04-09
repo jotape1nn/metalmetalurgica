@@ -1,0 +1,160 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid grey
+
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: white10, 61, 92;
+}
+.btn {
+    position: absolute;
+   margin-top: 60px;
+    left: 900px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    background: rgb(29, 29, 215);
+
+
+}
+
+.btn2{
+    position: absolute;
+   margin-top: 120px;
+    left: 900px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 27px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn2:hover{
+    background: rgb(29, 29, 215);
+}
+
+.btn3{
+    position: absolute;
+   margin-top: 180px;
+    left: 900px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 45px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn3:hover{
+    background: rgb(29, 29, 215);
+}
+
+.btn4{
+    position: absolute;
+   margin-top: 240px;
+    left: 900px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+}
+.btn4:hover{
+    background: rgb(29, 29, 215);
+}
+.btn5{
+    position: absolute;
+   margin-top: 300px;
+    left: 900px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+.btn5:hover{
+    background: rgb(29, 29, 215);
+}
+.btn6{
+    position: absolute;
+   margin-top: 360px;
+    left: 900px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 13px;
+    border: none;
+    border-radius: 5px;
+}
+.btn6:hover{
+    background: rgb(29, 29, 215);
+}
+
+.btn7{
+    position: absolute;
+   margin-top: 420px;
+    left: 900px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+}
+.btn7:hover{
+    background: rgb(29, 29, 215);
+
+}
+.orca{
+    position: absolute;
+   margin-top: 600px;
+    left: 200px;
+    background-color: rgb(5, 5, 122);
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.orca:hover{
+    background: rgb(252, 252, 253);
+    color: black;
+    
+}
+.login{
+    background-color: rgb(8, 3, 72);
+    color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.login:hover{
+    background: rgb(29, 29, 215);
+}
